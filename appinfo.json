@@ -1,0 +1,15 @@
+{
+    "appDescription": "This is my app :D",
+    "icon": "icon-80.png",
+    "main": "index.html",
+    "title": "ValterMachadoJr",
+    "type": "web",
+    "version": "3.0.1",
+    "bgColor": "#FFFFFF",
+    "vendor": "valtermachadojr",
+    "largeIcon": "icon-130.png",
+    "iconColor": "#FFFFFF",
+    "id": "valtermachadojr",
+    "uiRevision":2,
+    "disableBackHistoryAPI":true
+}
